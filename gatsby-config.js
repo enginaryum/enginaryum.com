@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `The Plain Gatsby`,
-    description: `A simple minimalist starter for your personal blog.`,
-    author: `@wangonya`,
-    avatar: `https://avatars0.githubusercontent.com/u/19375569?s=460&v=4`,
-    siteUrl: `https://the-plain-gatsby.netlify.com`,
+    title: `All me for real`,
+    description: `Muhammet Enginar`,
+    author: `@enginaryum`,
+    avatar: `https://res.cloudinary.com/userguiding/image/upload/v1570484259/IMG_2705_k92cwg.jpg`,
+    siteUrl: `https://enginaryum.com`,
   },
   plugins: [
     {
