@@ -24,3 +24,6 @@ We've moved to mono-repo few months ago, we've been maintaining 14 seperate repo
 ## new tech
 #### typescript, rxjs
 I've been experimenting with TypeScript & RxJS for a while. Finally we made the decision to use TypeScript on the new code and use RxJS on the version 3.0's preview algorithms. Both has great first impression, quite excited to play with new toys 😋
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5GrxfjuTTI" frameborder="0" allowfullscreen></iframe>

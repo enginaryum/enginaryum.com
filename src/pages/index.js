@@ -35,7 +35,7 @@ const IndexPage = ({ data }) => {
     .reverse()
   return (
     <DefaultLayout>
-      <SEO title="Home" />
+      <SEO title="Muhammet Enginar" />
       <section>
         <ul>{postsListContainer}</ul>
       </section>
